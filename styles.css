@@ -94,10 +94,16 @@ aside ul li {
 
 /* Footer */
 footer {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
+    background-color: black;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: white;
 }
+
 
 footer p, footer nav ul li {
     margin-bottom: 0.5rem;
